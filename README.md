@@ -16,7 +16,16 @@
    A desktop chat application with a Java Swing GUI and MySQL database for storing usernames and messages.  
    Communication between clients is handled over UDP sockets.  
    *Tech:* Java, Swing, MySQL, UDP  
+   
+- 🛒 [Webshop Database GUI](https://github.com/Keffii/webshop_db_gui)  
+   A simple webshop system with a Java Swing GUI connected to a MySQL database.  
+   Supports basic operations for managing products and customers.  
+   *Tech:* Java, Swing, MySQL  
 
+- 🌡️ [Temperature Collector IoT](https://github.com/Keffii/temperature_collector_iot)  
+   A Spring Boot application that collects temperature telemetry from IoT devices,  
+   stores the readings in a relational database, and visualizes the data through web pages and graphs.  
+   *Tech:* Java (Spring Boot), MySQL, Hibernate, Thymeleaf, HTML/CSS, Bootstrap  
 
 ---
 
