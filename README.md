@@ -3,8 +3,8 @@
 ## 🔧 Skills & Interests  
 
 - 🎓 Currently studying **Software Development (Embedded Systems & IoT)**  
-- 💻 Enjoy working with **Java, C/C++, and backend systems**  
-- 🌐 Learning more about **full-stack development**  
+- 💻 Enjoy working with **Java, C/C++, and fullstack development**  
+- 🌐 Learning more about **JavaScript**  
 
 ## 📌 Featured Projects  
 
