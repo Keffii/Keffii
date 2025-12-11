@@ -15,7 +15,7 @@
 
 - 👾 [Space Survivors](https://github.com/Keffii/space_survivors)  
   A browser-based arcade game controlled by a physical ESP32 device or a keyboard.  
-  Unique highscores for each users and global top 5 leaderboard.  
+  Choose a powerup on levelup, unique highscores for each users and global top 5 leaderboard.  
   *Tech:* Typescript, JavaScript, CSS, HTML, AWS Amplify
   
 - 📡 [Chat Application](https://github.com/Keffii/chat-application-mysql-udp)  
