@@ -4,7 +4,7 @@
 
 - 🎓 Currently studying **Software Development (Embedded Systems & IoT)**  
 - 💻 Enjoy working with **Java, C/C++, and fullstack development**  
-- 🌐 Learning more about **JavaScript and React**  
+- 🌐 Learning more about **TypeScript**  
 
 ## 📌 Featured Projects  
 
