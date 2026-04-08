@@ -30,4 +30,4 @@
 ---
 
 ## 📊 Languages I Use The Most  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keffii&layout=compact&theme=tokyonight&hide=makefile&exclude_repo=password_cracker_dearimgui)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keffii&layout=compact&theme=tokyonight&hide=makefile)
