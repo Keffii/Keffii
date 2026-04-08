@@ -30,4 +30,4 @@
 ---
 
 ## 📊 Languages I Use The Most  
-![Top Languages](./profile/top-langs.svg)
+![Top Languages](https://raw.githubusercontent.com/Keffii/Keffii/main/profile/top-langs.svg?v=a75f3ca)
