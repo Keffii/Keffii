@@ -29,5 +29,4 @@
 
 ---
 
-## 📊 Languages I Use The Most  
 ![Top Languages](./profile/top-langs.svg)
