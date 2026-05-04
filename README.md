@@ -8,7 +8,7 @@
 
 ## 📌 Featured Projects  
 
-- ⚡ [Pico Voltage Dip Monitor](https://github.com/Keffii/pico_voltage_dip_monitor)  
+- ⚡ [Voltage Dip Monitor](https://github.com/Keffii/pico_voltage_dip_monitor)  
    A real-time embedded monitoring system built for Raspberry Pi Pico 2 to detect short voltage dips across three input channels.  
    Includes a live OLED dashboard and optional PC streaming for logging, validation, and Grafana-based analysis.  
    *Tech:* MicroPython, Raspberry Pi Pico 2, OLED (SSD1351), InfluxDB, Grafana, Embedded Systems.  
