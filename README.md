@@ -2,7 +2,6 @@
 
 ## 🔧 Skills & Interests  
 
-- 🎓 Currently studying **Software Development (Embedded Systems & IoT)**  
 - 💻 Enjoy working with **Java, C/C++, and fullstack development**  
 - 🌐 Learning more about **TypeScript**  
 
