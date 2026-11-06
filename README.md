@@ -1,24 +1,61 @@
-## 📌 Featured Projects  
+### Hi, I'm Kevin
 
-- ⚡ [Voltage Dip Monitor](https://github.com/Keffii/pico_voltage_dip_monitor)  
-   A real-time embedded monitoring system built for Raspberry Pi Pico 2 to detect short voltage dips across three input channels.  
-   The product inclues a 3d printed case and live OLED dashboard and optional PC streaming for logging, validation, and Grafana-based analysis.  
-   *Tech:* MicroPython, Raspberry Pi Pico 2, OLED (SSD1351), InfluxDB, Grafana, Embedded Systems.  
+I'm a software developer in Stockholm working on embedded systems, IoT and backend. I graduated from Nackademin in 2026 (YH, Software Development, Embedded Systems and IoT) and did a six-month internship at Sigma Connectivity. Most of what I build connects hardware to software: microcontroller firmware, Linux devices and the backends they talk to.
 
-- 🎵 [Music Box](https://github.com/Keffii/music_box)  
-   Web-based music player that can be controlled wirelessly through an ESP32 Bluetooth controller or directly through the browser.  
-   Handles playback, playlists, authentication, and real-time updates with MySQL storage, a Spring Boot backend, and AWS-based cloud infrastructure.  
-   *Tech:* Java, Spring Boot, React, TypeScript, MySQL, AWS, Docker, Grafana, Bluetooth, REST API  
+I'm looking for a junior role in embedded or backend development in the Stockholm area.
 
-- 👾 [Space Survivors](https://github.com/Keffii/space_survivors)  
-  A browser-based arcade game controlled by a physical ESP32 device or a keyboard.  
-  Choose a powerup on levelup, unique highscores for each users and global top 5 leaderboard.  
-  *Tech:* Typescript, JavaScript, CSS, HTML, AWS Amplify  
-  
-- 🔑 [Password Cracker GUI](https://github.com/Keffii/password_cracker_dearimgui)  
-   A graphical tool for importing .txt files containing SHA256/MD5 hashes to recover the original password.  
-   *Tech:* C++, Dear ImGui  
+[LinkedIn](https://www.linkedin.com/in/kevin-juselius-vallin) · Swedish (native) · English (fluent)
 
----
+#### Projects
 
-![Top Languages](./profile/top-langs.svg)
+**[Voltage Dip Monitor](https://github.com/Keffii/pico_voltage_dip_monitor)**\
+MicroPython, Raspberry Pi Pico 2, InfluxDB, Grafana\
+Built during my internship to help troubleshoot a company device. It samples three channels at 100 Hz, detects voltage dips against a tracked baseline and shows them on an OLED display. In my test setup it caught dips within 10 ms. It can also stream data over USB to InfluxDB and Grafana, and it has a 3D-printed enclosure.
+
+**[Music Box](https://github.com/Keffii/music_box)**\
+Java, Spring Boot, MySQL, AWS, Docker, ESP32, Bluetooth LE\
+Cloud music player with login, playlists and favourites. The Spring Boot REST API runs on Elastic Beanstalk with MySQL on RDS, files in S3 and Cognito for auth. An ESP32 remote controls playback and volume over Bluetooth LE.
+
+**[Space Survivors](https://github.com/Keffii/space_survivors)**\
+TypeScript, AWS IoT Core, MQTT, AppSync, Lambda, DynamoDB\
+Browser arcade game you can play with a physical ESP32 controller. Input goes through AWS IoT Core and MQTT, while scores and live updates use AppSync/GraphQL, Lambda and DynamoDB. I wrote the AWS CDK/Amplify infrastructure.
+
+**[Password Cracker GUI](https://github.com/Keffii/password_cracker_dearimgui)**\
+C++, Dear ImGui\
+Desktop tool that imports SHA-256 and MD5 hashes from text files and tries to recover the passwords.
+
+#### Tech
+
+Embedded
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white)
+![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-AF8EFF?style=flat-square&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![Bluetooth LE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+
+I2C · SPI · UART · I2S
+
+Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+
+Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
