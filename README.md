@@ -1,6 +1,6 @@
 ### Hi, I'm Kevin
 
-I'm a software developer in Stockholm working on embedded systems, IoT and backend. I graduated from Nackademin in 2026 (YH, Software Development, Embedded Systems and IoT) and did a six-month internship at Sigma Connectivity. Most of what I build connects hardware to software: microcontroller firmware, Linux devices and the backends they talk to.
+I'm a software developer in Stockholm, working with embedded systems, IoT and backend. I graduated from Nackademin in 2026 (YH, Software Development, Embedded Systems and IoT) and did a six-month internship at Sigma Connectivity. Most of what I build connects hardware to software: microcontroller firmware, Linux devices and the backends they talk to.
 
 I'm looking for a junior role in embedded or backend development in the Stockholm area.
 
@@ -14,7 +14,7 @@ I'm looking for a junior role in embedded or backend development in the Stockhol
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-Built during my internship to help troubleshoot a company device. It samples three channels at 100 Hz, detects voltage dips against a tracked baseline and shows them on an OLED display. In my test setup it caught dips within 10 ms. It can also stream data over USB to InfluxDB and Grafana, and it has a 3D-printed enclosure.
+I built this during my internship to help troubleshoot a company device. It samples three channels at 100 Hz, detects voltage dips against a tracked baseline and shows them on an OLED display. In my test setup it caught dips within 10 ms. Data can also stream over USB to InfluxDB and Grafana, and the device sits in a 3D-printed enclosure.
 
 **[Music Box](https://github.com/Keffii/music_box)**\
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
