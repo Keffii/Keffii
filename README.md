@@ -1,10 +1,3 @@
-# 👋 Hi, I’m Kevin
-
-## 🔧 Skills & Interests  
-
-- 💻 Enjoy working with **Java, C/C++, and fullstack development**  
-- 🌐 Learning more about **TypeScript**  
-
 ## 📌 Featured Projects  
 
 - ⚡ [Voltage Dip Monitor](https://github.com/Keffii/pico_voltage_dip_monitor)  
