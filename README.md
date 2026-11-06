@@ -40,7 +40,7 @@ Embedded
 
 I2C · SPI · UART · I2S
 
-Backend
+Software & data
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
