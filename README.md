@@ -9,19 +9,38 @@ I'm looking for a junior role in embedded or backend development in the Stockhol
 #### Projects
 
 **[Voltage Dip Monitor](https://github.com/Keffii/pico_voltage_dip_monitor)**\
-MicroPython, Raspberry Pi Pico 2, InfluxDB, Grafana\
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white)
+![Raspberry Pi Pico 2](https://img.shields.io/badge/Raspberry_Pi_Pico_2-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
 Built during my internship to help troubleshoot a company device. It samples three channels at 100 Hz, detects voltage dips against a tracked baseline and shows them on an OLED display. In my test setup it caught dips within 10 ms. It can also stream data over USB to InfluxDB and Grafana, and it has a 3D-printed enclosure.
 
 **[Music Box](https://github.com/Keffii/music_box)**\
-Java, Spring Boot, MySQL, AWS, Docker, ESP32, Bluetooth LE\
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Bluetooth LE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+
 Cloud music player with login, playlists and favourites. The Spring Boot REST API runs on Elastic Beanstalk with MySQL on RDS, files in S3 and Cognito for auth. An ESP32 remote controls playback and volume over Bluetooth LE.
 
 **[Space Survivors](https://github.com/Keffii/space_survivors)**\
-TypeScript, AWS IoT Core, MQTT, AppSync, Lambda, DynamoDB\
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS IoT Core](https://img.shields.io/badge/AWS_IoT_Core-232F3E?style=flat-square&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![AppSync](https://img.shields.io/badge/AppSync-232F3E?style=flat-square&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-232F3E?style=flat-square&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logoColor=white)
+
 Browser arcade game you can play with a physical ESP32 controller. Input goes through AWS IoT Core and MQTT, while scores and live updates use AppSync/GraphQL, Lambda and DynamoDB. I wrote the AWS CDK/Amplify infrastructure.
 
 **[Password Cracker GUI](https://github.com/Keffii/password_cracker_dearimgui)**\
-C++, Dear ImGui\
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Dear ImGui](https://img.shields.io/badge/Dear_ImGui-1E1E1E?style=flat-square&logoColor=white)
+
 Desktop tool that imports SHA-256 and MD5 hashes from text files and tries to recover the passwords.
 
 #### Tech
