@@ -56,8 +56,10 @@ Embedded
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![Bluetooth LE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
-
-I2C · SPI · UART · I2S
+![I2C](https://img.shields.io/badge/I2C-455A64?style=flat-square)
+![SPI](https://img.shields.io/badge/SPI-455A64?style=flat-square)
+![UART](https://img.shields.io/badge/UART-455A64?style=flat-square)
+![I2S](https://img.shields.io/badge/I2S-455A64?style=flat-square)
 
 Software & data
 
