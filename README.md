@@ -8,13 +8,15 @@ I'm looking for a junior role in embedded or backend development in the Stockhol
 
 #### Projects
 
-**[Voltage Dip Monitor](https://github.com/Keffii/pico_voltage_dip_monitor)**\
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white)
-![Raspberry Pi Pico 2](https://img.shields.io/badge/Raspberry_Pi_Pico_2-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+**[Objekt](https://objekt.live)**\
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-232F3E?style=flat-square&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logoColor=white)
 
-I built this during my internship to help troubleshoot a company device. It samples three channels at 100 Hz, detects voltage dips against a tracked baseline and shows them on an OLED display. In my test setup it caught dips within 10 ms. Data can also stream over USB to InfluxDB and Grafana, and the device sits in a 3D-printed enclosure.
+A complete Swedish web shop for a made-up homeware brand, live at [objekt.live](https://objekt.live). Customers can pay by card or Klarna, use discount codes and gift cards, pick a pickup point or home delivery, track the parcel and return it for a refund. Products, stock, shipping, returns and refunds are run from the shop's own admin view.
 
 **[Music Box](https://github.com/Keffii/music_box)**\
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -27,6 +29,14 @@ I built this during my internship to help troubleshoot a company device. It samp
 
 Cloud music player with login, playlists and favourites. The Spring Boot REST API runs on Elastic Beanstalk with MySQL on RDS, files in S3 and Cognito for auth. An ESP32 remote controls playback and volume over Bluetooth LE.
 
+**[Voltage Dip Monitor](https://github.com/Keffii/pico_voltage_dip_monitor)**\
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white)
+![Raspberry Pi Pico 2](https://img.shields.io/badge/Raspberry_Pi_Pico_2-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+I built this during my internship to help troubleshoot a company device. It samples three channels at 100 Hz, detects voltage dips against a tracked baseline and shows them on an OLED display. In my test setup it caught dips within 10 ms. Data can also stream over USB to InfluxDB and Grafana, and the device sits in a 3D-printed enclosure.
+
 **[Space Survivors](https://github.com/Keffii/space_survivors)**\
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![AWS IoT Core](https://img.shields.io/badge/AWS_IoT_Core-232F3E?style=flat-square&logoColor=white)
@@ -36,12 +46,6 @@ Cloud music player with login, playlists and favourites. The Spring Boot REST AP
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logoColor=white)
 
 Browser arcade game you can play with a physical ESP32 controller. Input goes through AWS IoT Core and MQTT, while scores and live updates use AppSync/GraphQL, Lambda and DynamoDB. I wrote the AWS CDK/Amplify infrastructure.
-
-**[Password Cracker GUI](https://github.com/Keffii/password_cracker_dearimgui)**\
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Dear ImGui](https://img.shields.io/badge/Dear_ImGui-1E1E1E?style=flat-square&logoColor=white)
-
-Desktop tool that imports SHA-256 and MD5 hashes from text files and tries to recover the passwords.
 
 #### Tech
 
