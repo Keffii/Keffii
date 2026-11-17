@@ -19,15 +19,16 @@ I'm looking for a junior role in embedded or backend development in the Stockhol
 A complete Swedish web shop for a made-up homeware brand, live at [objekt.live](https://objekt.live). Customers can pay by card or Klarna, use discount codes and gift cards, pick a pickup point or home delivery, track the parcel and return it for a refund. Products, stock, shipping, returns and refunds are run from the shop's own admin view.
 
 **[Music Box](https://github.com/Keffii/music_box)**\
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Bluetooth LE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
 
-Cloud music player with login, playlists and favourites. The Spring Boot REST API runs on Elastic Beanstalk with MySQL on RDS, files in S3 and Cognito for auth. An ESP32 remote controls playback and volume over Bluetooth LE.
+Cloud music streaming platform, live at [musicbox.website](https://musicbox.website). Guests can listen right away, and each user's player stays in sync across devices with Server-Sent Events. Spring Boot API on AWS (Elastic Beanstalk, RDS, S3, Cognito), with an ESP32 Bluetooth remote for playback.
 
 **[Voltage Dip Monitor](https://github.com/Keffii/pico_voltage_dip_monitor)**\
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white)
