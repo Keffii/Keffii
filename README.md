@@ -6,8 +6,6 @@
 <a href="https://musicbox.website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-musicbox-dark.svg"><img src="assets/link-musicbox-light.svg" height="36" alt="musicbox.website"></picture></a>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg"><img src="assets/whoami-light.svg" width="100%" alt="whoami: kevin, embedded &amp; backend developer, Stockholm YH Software Development, Embedded Systems and IoT, Nackademin (2026) Six-month internship at Sigma Connectivity looking for a junior role in embedded or backend development in the Stockholm area sv (native) · en (fluent)"></picture>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-build-dark.svg"><img src="assets/label-build-light.svg" width="100%" alt="What I build"></picture>
 
 <p align="center">
@@ -23,10 +21,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-activity-dark.svg"><img src="assets/label-activity-light.svg" width="100%" alt="Activity"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="On GitHub since 2020: 1,284 contributions in the last 12 months, current streak 1 days, longest streak 11 days, 13 public repos, 2 stars earned."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="On GitHub since 2020: 1,284 contributions in the last 12 months, current streak 1 days, longest streak 11 days, 13 public repos."></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg"><img src="assets/heatmap-light.svg" width="100%" alt="Contribution heatmap: 1,284 contributions in the last 12 months."></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/scope-dark.svg"><img src="assets/scope-light.svg" width="100%" alt="315 contributions in the last 30 days, peak 75 in one day."></picture>
-
-<p align="center"><sub>Cards drawn by <a href="scripts/build.py">scripts/build.py</a> and redrawn every night by a GitHub Action · light and dark themes</sub></p>

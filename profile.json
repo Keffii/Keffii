@@ -2,22 +2,26 @@
   "login": "Keffii",
   "name": "Kevin",
   "hero": {
-    "prompt": "~/keffii",
     "title": "Hi, I'm Kevin.",
     "subtitle": "Embedded & backend developer in Stockholm. I connect hardware to software: microcontroller firmware, Linux devices and the backends they talk to.",
     "status": "open to junior embedded / backend roles · Stockholm"
   },
   "links": [
-    {"id": "linkedin", "label": "LinkedIn", "url": "https://www.linkedin.com/in/kevin-juselius-vallin"},
-    {"id": "objekt", "label": "objekt.live", "url": "https://objekt.live"},
-    {"id": "musicbox", "label": "musicbox.website", "url": "https://musicbox.website"}
-  ],
-  "whoami": [
-    ["whoami", "kevin, embedded & backend developer, Stockholm"],
-    ["cat education.txt", "YH Software Development, Embedded Systems and IoT, Nackademin (2026)"],
-    ["cat experience.txt", "Six-month internship at Sigma Connectivity"],
-    ["echo $STATUS", "looking for a junior role in embedded or backend development in the Stockholm area"],
-    ["echo $LANG", "sv (native) · en (fluent)"]
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevin-juselius-vallin"
+    },
+    {
+      "id": "objekt",
+      "label": "objekt.live",
+      "url": "https://objekt.live"
+    },
+    {
+      "id": "musicbox",
+      "label": "musicbox.website",
+      "url": "https://musicbox.website"
+    }
   ],
   "projects": [
     {
@@ -26,7 +30,13 @@
       "url": "https://github.com/Keffii/storefront",
       "tag": "live · objekt.live",
       "desc": "A complete Swedish web shop for a made-up homeware brand. Card and Klarna payments, discount codes, gift cards, parcel tracking, returns and refunds, all run from the shop's own admin view.",
-      "stack": ["Next.js", "TypeScript", "Stripe", "AWS Amplify", "DynamoDB"]
+      "stack": [
+        "Next.js",
+        "TypeScript",
+        "Stripe",
+        "AWS Amplify",
+        "DynamoDB"
+      ]
     },
     {
       "id": "musicbox",
@@ -34,7 +44,14 @@
       "url": "https://github.com/Keffii/music_box",
       "tag": "live · musicbox.website",
       "desc": "Cloud music streaming with players kept in sync across devices over Server-Sent Events. Spring Boot API on AWS, plus an ESP32 Bluetooth remote for playback.",
-      "stack": ["Spring Boot", "React", "MySQL", "AWS", "ESP32", "Bluetooth"]
+      "stack": [
+        "Spring Boot",
+        "React",
+        "MySQL",
+        "AWS",
+        "ESP32",
+        "Bluetooth"
+      ]
     },
     {
       "id": "dipmonitor",
@@ -42,7 +59,12 @@
       "url": "https://github.com/Keffii/pico_voltage_dip_monitor",
       "tag": "built during internship",
       "desc": "Samples three channels at 100 Hz, detects dips against a tracked baseline and shows them on an OLED. Caught dips within 10 ms in testing. Streams to InfluxDB and Grafana over USB.",
-      "stack": ["MicroPython", "Pico 2", "InfluxDB", "Grafana"]
+      "stack": [
+        "MicroPython",
+        "Pico 2",
+        "InfluxDB",
+        "Grafana"
+      ]
     },
     {
       "id": "spacesurvivors",
@@ -50,12 +72,58 @@
       "url": "https://github.com/Keffii/space_survivors",
       "tag": "ESP32 controller",
       "desc": "Browser arcade game played with a physical ESP32 controller. Input goes through AWS IoT Core and MQTT; scores and live updates use AppSync, Lambda and DynamoDB, on CDK/Amplify infrastructure I wrote.",
-      "stack": ["TypeScript", "AWS IoT Core", "MQTT", "AppSync", "Lambda"]
+      "stack": [
+        "TypeScript",
+        "AWS IoT Core",
+        "MQTT",
+        "AppSync",
+        "Lambda"
+      ]
     }
   ],
   "stack": [
-    {"group": "embedded", "items": ["C", "C++", "MicroPython", "Zephyr RTOS", "ESP32", "STM32", "Raspberry Pi", "Arduino", "Bluetooth LE", "I2C", "SPI", "UART", "I2S"]},
-    {"group": "software", "items": ["Java", "Spring Boot", "Python", "TypeScript", "MySQL", "DynamoDB", "InfluxDB", "MQTT"]},
-    {"group": "tools", "items": ["Linux", "Git", "Docker", "AWS", "GitHub Actions", "Jenkins", "Grafana"]}
+    {
+      "group": "embedded",
+      "items": [
+        "C",
+        "C++",
+        "MicroPython",
+        "Zephyr RTOS",
+        "ESP32",
+        "STM32",
+        "Raspberry Pi",
+        "Arduino",
+        "Bluetooth LE",
+        "I2C",
+        "SPI",
+        "UART",
+        "I2S"
+      ]
+    },
+    {
+      "group": "software",
+      "items": [
+        "Java",
+        "Spring Boot",
+        "Python",
+        "TypeScript",
+        "MySQL",
+        "DynamoDB",
+        "InfluxDB",
+        "MQTT"
+      ]
+    },
+    {
+      "group": "tools",
+      "items": [
+        "Linux",
+        "Git",
+        "Docker",
+        "AWS",
+        "GitHub Actions",
+        "Jenkins",
+        "Grafana"
+      ]
+    }
   ]
 }
