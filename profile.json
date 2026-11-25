@@ -2,9 +2,9 @@
   "login": "Keffii",
   "name": "Kevin",
   "hero": {
-    "title": "Hi, I'm Kevin.",
-    "subtitle": "Embedded & backend developer in Stockholm. I connect hardware to software: microcontroller firmware, Linux devices and the backends they talk to.",
-    "status": "open to junior embedded / backend roles · Stockholm"
+    "title": "Kevin.",
+    "subtitle": "Software developer in Stockholm. I enjoy learning about new technologies and broadening my experience.",
+    "status": "open to junior backend / fullstack / devops / embedded roles · Stockholm"
   },
   "links": [
     {
@@ -108,9 +108,25 @@
         "Python",
         "TypeScript",
         "MySQL",
-        "DynamoDB",
         "InfluxDB",
         "MQTT"
+      ]
+    },
+    {
+      "group": "cloud",
+      "items": [
+        "AWS",
+        "Elastic Beanstalk",
+        "RDS",
+        "S3",
+        "Cognito",
+        "DynamoDB",
+        "Lambda",
+        "SES",
+        "Amplify",
+        "AWS CDK",
+        "IoT Core",
+        "AppSync"
       ]
     },
     {
@@ -121,7 +137,6 @@
         "Docker",
         "Kubernetes",
         "Terraform",
-        "AWS CDK",
         "Grafana",
         "Bash"
       ]
@@ -130,8 +145,7 @@
       "group": "tools",
       "items": [
         "Linux",
-        "Git",
-        "AWS"
+        "Git"
       ]
     }
   ]

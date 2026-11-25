@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kevin. Embedded &amp; backend developer in Stockholm. I connect hardware to software: microcontroller firmware, Linux devices and the backends they talk to. Status: open to junior embedded / backend roles · Stockholm."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Kevin. Software developer in Stockholm. I enjoy learning about new technologies and broadening my experience. Status: open to junior backend / fullstack / devops / embedded roles · Stockholm."></picture>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kevin-juselius-vallin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" height="36" alt="LinkedIn"></picture></a>
@@ -17,7 +17,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-stack-dark.svg"><img src="assets/label-stack-light.svg" width="100%" alt="Stack"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech. Embedded: C, C++, MicroPython, Zephyr RTOS, ESP32, STM32, Raspberry Pi, Arduino, Bluetooth LE, I2C, SPI, UART, I2S. Software: Java, Spring Boot, Python, TypeScript, MySQL, DynamoDB, InfluxDB, MQTT. Devops: GitHub Actions, Jenkins, Docker, Kubernetes, Terraform, AWS CDK, Grafana, Bash. Tools: Linux, Git, AWS."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech. Embedded: C, C++, MicroPython, Zephyr RTOS, ESP32, STM32, Raspberry Pi, Arduino, Bluetooth LE, I2C, SPI, UART, I2S. Software: Java, Spring Boot, Python, TypeScript, MySQL, InfluxDB, MQTT. Cloud: AWS, Elastic Beanstalk, RDS, S3, Cognito, DynamoDB, Lambda, SES, Amplify, AWS CDK, IoT Core, AppSync. Devops: GitHub Actions, Jenkins, Docker, Kubernetes, Terraform, Grafana, Bash. Tools: Linux, Git."></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-activity-dark.svg"><img src="assets/label-activity-light.svg" width="100%" alt="Activity"></picture>
 
