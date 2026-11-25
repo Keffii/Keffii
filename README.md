@@ -21,6 +21,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-activity-dark.svg"><img src="assets/label-activity-light.svg" width="100%" alt="Activity"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="On GitHub since 2020: 1,314 contributions in the last 12 months, current streak 2 days, longest streak 11 days, 13 public repos."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="On GitHub since 2020: 1,316 contributions in the last 12 months, current streak 2 days, longest streak 11 days, 13 public repos."></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg"><img src="assets/heatmap-light.svg" width="100%" alt="Contribution heatmap: 1,314 contributions in the last 12 months."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg"><img src="assets/heatmap-light.svg" width="100%" alt="Contribution heatmap: 1,316 contributions in the last 12 months."></picture>
