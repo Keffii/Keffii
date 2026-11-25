@@ -17,7 +17,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-stack-dark.svg"><img src="assets/label-stack-light.svg" width="100%" alt="Stack"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech. Embedded: C, C++, MicroPython, Zephyr RTOS, ESP32, STM32, Raspberry Pi, Arduino, Bluetooth LE, I2C, SPI, UART, I2S. Software: Java, Spring Boot, Python, TypeScript, MySQL, DynamoDB, InfluxDB, MQTT. Tools: Linux, Git, Docker, AWS, GitHub Actions, Jenkins, Grafana."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech. Embedded: C, C++, MicroPython, Zephyr RTOS, ESP32, STM32, Raspberry Pi, Arduino, Bluetooth LE, I2C, SPI, UART, I2S. Software: Java, Spring Boot, Python, TypeScript, MySQL, DynamoDB, InfluxDB, MQTT. Devops: GitHub Actions, Jenkins, Docker, Kubernetes, Terraform, AWS CDK, Grafana, Bash. Tools: Linux, Git, AWS."></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-activity-dark.svg"><img src="assets/label-activity-light.svg" width="100%" alt="Activity"></picture>
 

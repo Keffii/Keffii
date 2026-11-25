@@ -114,15 +114,24 @@
       ]
     },
     {
+      "group": "devops",
+      "items": [
+        "GitHub Actions",
+        "Jenkins",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "AWS CDK",
+        "Grafana",
+        "Bash"
+      ]
+    },
+    {
       "group": "tools",
       "items": [
         "Linux",
         "Git",
-        "Docker",
-        "AWS",
-        "GitHub Actions",
-        "Jenkins",
-        "Grafana"
+        "AWS"
       ]
     }
   ]
