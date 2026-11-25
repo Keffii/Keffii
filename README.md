@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Kevin. Software developer in Stockholm. I enjoy learning about new technologies and broadening my experience. Status: open to junior backend / fullstack / devops / embedded roles · Stockholm."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Kevin. Software developer in Stockholm. I enjoy spending my time learning about new technologies or working on ongoing projects. Status: open to junior backend / fullstack / devops / embedded roles · Stockholm."></picture>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kevin-juselius-vallin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" height="36" alt="LinkedIn"></picture></a>
