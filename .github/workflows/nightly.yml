@@ -1,0 +1,42 @@
+name: Redraw profile cards
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [profile.json, scripts/build.py]
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Build README and cards
+        env:
+          # PROFILE_TOKEN (a personal token) also counts private contributions.
+          # Without it the built-in token only sees public activity.
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python scripts/build.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets scripts/data.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Redraw profile cards"
+          git pull --rebase origin main
+          git push origin HEAD:main

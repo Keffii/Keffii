@@ -1,88 +1,32 @@
-### Hi, I'm Kevin
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kevin. Embedded &amp; backend developer in Stockholm. I connect hardware to software: microcontroller firmware, Linux devices and the backends they talk to. Status: open to junior embedded / backend roles · Stockholm."></picture>
 
-I'm a software developer in Stockholm, working with embedded systems, IoT and backend. I graduated from Nackademin in 2026 (YH, Software Development, Embedded Systems and IoT) and did a six-month internship at Sigma Connectivity. Most of what I build connects hardware to software: microcontroller firmware, Linux devices and the backends they talk to.
+<p align="center">
+<a href="https://www.linkedin.com/in/kevin-juselius-vallin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" height="36" alt="LinkedIn"></picture></a>
+<a href="https://objekt.live"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-objekt-dark.svg"><img src="assets/link-objekt-light.svg" height="36" alt="objekt.live"></picture></a>
+<a href="https://musicbox.website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-musicbox-dark.svg"><img src="assets/link-musicbox-light.svg" height="36" alt="musicbox.website"></picture></a>
+</p>
 
-I'm looking for a junior role in embedded or backend development in the Stockholm area.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg"><img src="assets/whoami-light.svg" width="100%" alt="whoami: kevin, embedded &amp; backend developer, Stockholm YH Software Development, Embedded Systems and IoT, Nackademin (2026) Six-month internship at Sigma Connectivity looking for a junior role in embedded or backend development in the Stockholm area sv (native) · en (fluent)"></picture>
 
-[LinkedIn](https://www.linkedin.com/in/kevin-juselius-vallin) · Swedish (native) · English (fluent)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-build-dark.svg"><img src="assets/label-build-light.svg" width="100%" alt="What I build"></picture>
 
-#### Projects
+<p align="center">
+<a href="https://github.com/Keffii/storefront"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-objekt-dark.svg"><img src="assets/project-objekt-light.svg" width="49%" alt="Objekt (live · objekt.live): A complete Swedish web shop for a made-up homeware brand. Card and Klarna payments, discount codes, gift cards, parcel tracking, returns and refunds, all run from the shop&#x27;s own admin view. Built with Next.js, TypeScript, Stripe, AWS Amplify, DynamoDB."></picture></a>
+<a href="https://github.com/Keffii/music_box"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-musicbox-dark.svg"><img src="assets/project-musicbox-light.svg" width="49%" alt="Music Box (live · musicbox.website): Cloud music streaming with players kept in sync across devices over Server-Sent Events. Spring Boot API on AWS, plus an ESP32 Bluetooth remote for playback. Built with Spring Boot, React, MySQL, AWS, ESP32, Bluetooth."></picture></a>
+<a href="https://github.com/Keffii/pico_voltage_dip_monitor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dipmonitor-dark.svg"><img src="assets/project-dipmonitor-light.svg" width="49%" alt="Voltage Dip Monitor (built during internship): Samples three channels at 100 Hz, detects dips against a tracked baseline and shows them on an OLED. Caught dips within 10 ms in testing. Streams to InfluxDB and Grafana over USB. Built with MicroPython, Pico 2, InfluxDB, Grafana."></picture></a>
+<a href="https://github.com/Keffii/space_survivors"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-spacesurvivors-dark.svg"><img src="assets/project-spacesurvivors-light.svg" width="49%" alt="Space Survivors (ESP32 controller): Browser arcade game played with a physical ESP32 controller. Input goes through AWS IoT Core and MQTT; scores and live updates use AppSync, Lambda and DynamoDB, on CDK/Amplify infrastructure I wrote. Built with TypeScript, AWS IoT Core, MQTT, AppSync, Lambda."></picture></a>
+</p>
 
-**[Objekt](https://github.com/Keffii/storefront)**\
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-232F3E?style=flat-square&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-stack-dark.svg"><img src="assets/label-stack-light.svg" width="100%" alt="Stack"></picture>
 
-A complete Swedish web shop for a made-up homeware brand, live at [objekt.live](https://objekt.live). Customers can pay by card or Klarna, use discount codes and gift cards, pick a pickup point or home delivery, track the parcel and return it for a refund. Products, stock, shipping, returns and refunds are run from the shop's own admin view.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech. Embedded: C, C++, MicroPython, Zephyr RTOS, ESP32, STM32, Raspberry Pi, Arduino, Bluetooth LE, I2C, SPI, UART, I2S. Software: Java, Spring Boot, Python, TypeScript, MySQL, DynamoDB, InfluxDB, MQTT. Tools: Linux, Git, Docker, AWS, GitHub Actions, Jenkins, Grafana."></picture>
 
-**[Music Box](https://github.com/Keffii/music_box)**\
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-activity-dark.svg"><img src="assets/label-activity-light.svg" width="100%" alt="Activity"></picture>
 
-Cloud music streaming platform, live at [musicbox.website](https://musicbox.website). Guests can listen right away, and each user's player stays in sync across devices with Server-Sent Events. Spring Boot API on AWS (Elastic Beanstalk, RDS, S3, Cognito), with an ESP32 Bluetooth remote for playback.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="On GitHub since 2020: 1,284 contributions in the last 12 months, current streak 1 days, longest streak 11 days, 13 public repos, 2 stars earned."></picture>
 
-**[Voltage Dip Monitor](https://github.com/Keffii/pico_voltage_dip_monitor)**\
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white)
-![Raspberry Pi Pico 2](https://img.shields.io/badge/Raspberry_Pi_Pico_2-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg"><img src="assets/heatmap-light.svg" width="100%" alt="Contribution heatmap: 1,284 contributions in the last 12 months."></picture>
 
-I built this during my internship to help troubleshoot a company device. It samples three channels at 100 Hz, detects voltage dips against a tracked baseline and shows them on an OLED display. In my test setup it caught dips within 10 ms. Data can also stream over USB to InfluxDB and Grafana, and the device sits in a 3D-printed enclosure.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/scope-dark.svg"><img src="assets/scope-light.svg" width="100%" alt="315 contributions in the last 30 days, peak 75 in one day."></picture>
 
-**[Space Survivors](https://github.com/Keffii/space_survivors)**\
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![AWS IoT Core](https://img.shields.io/badge/AWS_IoT_Core-232F3E?style=flat-square&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![AppSync](https://img.shields.io/badge/AppSync-232F3E?style=flat-square&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-232F3E?style=flat-square&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logoColor=white)
-
-Browser arcade game you can play with a physical ESP32 controller. Input goes through AWS IoT Core and MQTT, while scores and live updates use AppSync/GraphQL, Lambda and DynamoDB. I wrote the AWS CDK/Amplify infrastructure.
-
-#### Tech
-
-Embedded
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white)
-![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-AF8EFF?style=flat-square&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![Bluetooth LE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
-![I2C](https://img.shields.io/badge/I2C-455A64?style=flat-square)
-![SPI](https://img.shields.io/badge/SPI-455A64?style=flat-square)
-![UART](https://img.shields.io/badge/UART-455A64?style=flat-square)
-![I2S](https://img.shields.io/badge/I2S-455A64?style=flat-square)
-
-Software & data
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-
-Tools
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+<p align="center"><sub>Cards drawn by <a href="scripts/build.py">scripts/build.py</a> and redrawn every night by a GitHub Action · light and dark themes</sub></p>
